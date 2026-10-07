@@ -1,7 +1,7 @@
 # dw5k
 # **dw5k is an osint tool who studies the emails 📩**
 
-# ** Abouts dw5k**
+#  About dw5k
 
 > dw5k is a tool focused on finding public information on a targeted email.
 
